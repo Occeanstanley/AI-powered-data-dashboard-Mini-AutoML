@@ -66,3 +66,15 @@ Export complete analysis results as:
 ---
 
 ## 📂 Project Structure
+---
+
+## ▶️ How to Run Locally
+
+### **1. Clone the project**
+```bash
+git clone https://github.com/Occeanstanley/AI-Powered-Data-Dashboard-Mini-AutoML
+cd AI-Powered-Data-Dashboard-Mini-AutoML
+
+pip install -r requirements.txt
+streamlit run app.py
+
